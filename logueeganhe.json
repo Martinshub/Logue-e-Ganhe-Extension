@@ -1,195 +1,223 @@
 {
 	"days" : {
 		"1" : {
-			"image" : "https://static.divine-pride.net/images/items/item/12214.png",
-			"amount" : 3,
-			"day" : "06/10",
+			"image" : "images/PoçãodeVida.png",
+			"amount" : 10,
+			"day" : "01/11",
 			"all_days" : false,
 			"confirmed" : false
 		},
 		"2" : {
-			"image" : "https://i.imgur.com/q21KUT4.png",
-			"amount" : 3,
-			"day" : "07/10",
+			"image" : "images/Medicina.png",
+			"amount" : 5,
+			"day" : "02/11",
 			"all_days" : false,
 			"confirmed" : false
 		},
 		"3" : {
-			"image" : "images/ValePresente.png",
+			"image" : "images/Manual.png",
 			"amount" : 10,
-			"day" : "08/10",
+			"day" : "03/11",
 			"all_days" : false,
 			"confirmed" : false
 		},
 		"4" : {
-			"image" : "images/Medicina.png",
-			"amount" : 3,
-			"day" : "09/10",
+			"image" : "images/ValePresente.png",
+			"amount" : 10,
+			"day" : "04/11",
 			"all_days" : false,
 			"confirmed" : false
 		},
 		"5" : {
 			"image" : "images/Chiclete.png",
 			"amount" : 5,
-			"day" : "10/10",
+			"day" : "05/11",
 			"all_days" : false,
 			"confirmed" : false
 		},
 		"6" : {
-			"image" : "images/CartaoKafra.png",
-			"amount" : 10,
-			"day" : "11/10",
+			"image" : "images/Medicina.png",
+			"amount" : 3,
+			"day" : "06/11",
 			"all_days" : false,
 			"confirmed" : false
 		},
 		"7" : {
-			"image" : "images/Manual.png",
-			"amount" : 10,
-			"day" : "12/10",
+			"image" : "https://i.imgur.com/q21KUT4.png",
+			"amount" : 5,
+			"day" : "07/11",
 			"all_days" : false,
 			"confirmed" : false
 		},
 		"8" : {
-			"image" : "images/CxdeAcesso.png",
+			"image" : "images/Cx.png",
 			"amount" : 1,
-			"day" : "13/10",
+			"day" : "08/11",
 			"all_days" : false,
 			"confirmed" : false
 		},
 		"9" : {
-			"image" : "images/LatadeComidaparaGatos.png",
+			"image" : "images/Medicina.png",
 			"amount" : 5,
-			"day" : "14/10",
+			"day" : "09/11",
 			"all_days" : false,
 			"confirmed" : false
 		},
 		"10" : {
 			"image" : "images/ValePresente.png",
 			"amount" : 10,
-			"day" : "15/10",
+			"day" : "10/11",
 			"all_days" : false,
 			"confirmed" : false
 		},
 		"11" : {
-			"image" : "images/Medicina.png",
-			"amount" : 3,
-			"day" : "16/10",
+			"image" : "images/EluniumEnriquecido.png",
+			"amount" : 5,
+			"day" : "11/11",
 			"all_days" : false,
 			"confirmed" : false
 		},
 		"12" : {
-			"image" : "images/PoçãodeVida.png",
-			"amount" : 10,
-			"day" : "17/10",
+			"image" : "images/OrideconEnriquecido.png",
+			"amount" : 5,
+			"day" : "12/11",
 			"all_days" : false,
 			"confirmed" : false
 		},
 		"13" : {
-			"image" : "images/Chiclete.png",
-			"amount" : 5,
-			"day" : "18/10",
+			"image" : "images/Medicina.png",
+			"amount" : 3,
+			"day" : "13/11",
 			"all_days" : false,
 			"confirmed" : false
 		},
 		"14" : {
-			"image" : "images/EluniumEnriquecido.png",
+			"image" : "https://i.imgur.com/q21KUT4.png",
 			"amount" : 5,
-			"day" : "19/10",
+			"day" : "14/11",
 			"all_days" : false,
 			"confirmed" : false
 		},
 		"15" : {
-			"image" : "images/OrideconEnriquecido.png",
-			"amount" : 5,
-			"day" : "20/10",
+			"image" : "images/Manual.png",
+			"amount" : 10,
+			"day" : "15/11",
 			"all_days" : false,
 			"confirmed" : false
 		},
 		"16" : {
-			"image" : "https://i.imgur.com/q21KUT4.png",
-			"amount" : 3,
-			"day" : "21/10",
+			"image" : "images/Medicina.png",
+			"amount" : 5,
+			"day" : "16/11",
 			"all_days" : false,
 			"confirmed" : false
 		},
 		"17" : {
 			"image" : "images/ValePresente.png",
 			"amount" : 10,
-			"day" : "22/10",
+			"day" : "17/11",
 			"all_days" : false,
 			"confirmed" : false
 		},
 		"18" : {
-			"image" : "images/Medicina.png",
-			"amount" : 3,
-			"day" : "23/10",
+			"image" : "images/Chiclete.png",
+			"amount" : 5,
+			"day" : "18/11",
 			"all_days" : false,
 			"confirmed" : false
 		},
 		"19" : {
-			"image" : "images/Manual.png",
-			"amount" : 10,
-			"day" : "24/10",
+			"image" : "images/LatadeComidaparaGatos.png",
+			"amount" : 5,
+			"day" : "19/11",
 			"all_days" : false,
 			"confirmed" : false
 		},
 		"20" : {
-			"image" : "images/Cx.png",
-			"amount" : 1,
-			"day" : "25/10",
+			"image" : "images/Medicina.png",
+			"amount" : 3,
+			"day" : "20/11",
 			"all_days" : false,
 			"confirmed" : false
 		},
 		"21" : {
-			"image" : "images/LatadeComidaparaGatos.png",
+			"image" : "https://i.imgur.com/q21KUT4.png",
 			"amount" : 5,
-			"day" : "26/10",
+			"day" : "21/11",
 			"all_days" : false,
 			"confirmed" : false
 		},
 		"22" : {
-			"image" : "images/Chiclete.png",
-			"amount" : 3,
-			"day" : "27/10",
+			"image" : "images/CartaoKafra.png",
+			"amount" : 10,
+			"day" : "22/11",
 			"all_days" : false,
 			"confirmed" : false
 		},
 		"23" : {
-			"image" : "https://i.imgur.com/q21KUT4.png",
-			"amount" : 3,
-			"day" : "28/10",
+			"image" : "images/Medicina.png",
+			"amount" : 5,
+			"day" : "23/11",
 			"all_days" : false,
 			"confirmed" : false
 		},
 		"24" : {
-			"image" : "images/ValePresente.png",
+			"image" : "images/PoçãodeVida.png",
 			"amount" : 10,
-			"day" : "29/10",
+			"day" : "24/11",
 			"all_days" : false,
 			"confirmed" : false
 		},
 		"25" : {
-			"image" : "images/LatadeComidaparaGatos.png",
-			"amount" : 5,
-			"day" : "30/10",
+			"image" : "images/Manual.png",
+			"amount" : 10,
+			"day" : "25/11",
 			"all_days" : false,
 			"confirmed" : false
 		},
 		"26" : {
-			"image" : "images/PoçãodeVida.png",
+			"image" : "images/ValePresente.png",
 			"amount" : 10,
-			"day" : "31/10",
+			"day" : "26/11",
 			"all_days" : false,
 			"confirmed" : false
 		},
 		"27" : {
-			"image" : "https://static.divine-pride.net/images/items/item/20762.png",
+			"image" : "images/Medicina.png",
+			"amount" : 3,
+			"day" : "27/11",
+			"all_days" : false,
+			"confirmed" : false
+		},
+		"28" : {
+			"image" : "https://i.imgur.com/q21KUT4.png",
+			"amount" : 5,
+			"day" : "28/11",
+			"all_days" : false,
+			"confirmed" : false
+		},
+		"29" : {
+			"image" : "images/Chiclete.png",
+			"amount" : 5,
+			"day" : "29/11",
+			"all_days" : false,
+			"confirmed" : false
+		},
+		"30" : {
+			"image" : "images/Medicina.png",
+			"amount" : 5,
+			"day" : "30/11",
+			"all_days" : false,
+			"confirmed" : false
+		},
+		"31" : {
+			"image" : "https://static.divine-pride.net/images/items/item/20541.png",
 			"amount" : 1,
 			"day" : "",
 			"all_days" : true,
 			"confirmed" : false
 		},
-		"28" : {
+		"32" : {
 			"image" : "https://static.divine-pride.net/images/items/item/25791.png",
 			"amount" : 1,
 			"day" : "",
@@ -197,7 +225,7 @@
 			"confirmed" : false
 		}
 	},
-	"preview" : "https://i.imgur.com/3PIuB30.gif",
+	"preview" : "https://i.imgur.com/lqD0TY7.gif",
 	"msg" : "Resgate dos prêmios: a partir das 16h00 do dia seguinte conversando com o NPC Torsen em Alberta.",
-	"v" : 4
+	"v" : 5
 }
