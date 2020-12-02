@@ -1,231 +1,232 @@
 {
 	"days" : {
 		"1" : {
-			"image" : "images/PoçãodeVida.png",
+			"image" : "https://static.divine-pride.net/images/items/item/23202.png",
 			"amount" : 10,
-			"day" : "01/11",
+			"day" : "01/12",
 			"all_days" : false,
 			"confirmed" : false
 		},
 		"2" : {
-			"image" : "images/Medicina.png",
-			"amount" : 5,
-			"day" : "02/11",
+			"image" : "https://static.divine-pride.net/images/items/item/12405.png",
+			"amount" : 10,
+			"day" : "02/12",
 			"all_days" : false,
 			"confirmed" : false
 		},
 		"3" : {
-			"image" : "images/Manual.png",
-			"amount" : 10,
-			"day" : "03/11",
+			"image" : "images/PoçãodeVida.png",
+			"amount" : 5,
+			"day" : "03/12",
 			"all_days" : false,
 			"confirmed" : false
 		},
 		"4" : {
-			"image" : "images/ValePresente.png",
-			"amount" : 10,
-			"day" : "04/11",
+			"image" : "images/Manual.png",
+			"amount" : 5,
+			"day" : "04/12",
 			"all_days" : false,
 			"confirmed" : false
 		},
 		"5" : {
-			"image" : "images/Chiclete.png",
-			"amount" : 5,
-			"day" : "05/11",
+			"image" : "images/ValePresente.png",
+			"amount" : 10,
+			"day" : "05/12",
 			"all_days" : false,
 			"confirmed" : false
 		},
 		"6" : {
-			"image" : "images/Medicina.png",
-			"amount" : 3,
-			"day" : "06/11",
+			"image" : "images/LatadeComidaparaGatos.png",
+			"amount" : 5,
+			"day" : "06/12",
 			"all_days" : false,
 			"confirmed" : false
 		},
 		"7" : {
-			"image" : "https://i.imgur.com/q21KUT4.png",
+			"image" : "images/EluniumEnriquecido.png",
 			"amount" : 5,
-			"day" : "07/11",
+			"day" : "07/12",
 			"all_days" : false,
 			"confirmed" : false
 		},
 		"8" : {
-			"image" : "images/Cx.png",
-			"amount" : 1,
-			"day" : "08/11",
+			"image" : "https://static.divine-pride.net/images/items/item/23202.png",
+			"amount" : 10,
+			"day" : "08/12",
 			"all_days" : false,
 			"confirmed" : false
 		},
 		"9" : {
-			"image" : "images/Medicina.png",
+			"image" : "images/PoçãodeVida.png",
 			"amount" : 5,
-			"day" : "09/11",
+			"day" : "09/12",
 			"all_days" : false,
 			"confirmed" : false
 		},
 		"10" : {
-			"image" : "images/ValePresente.png",
+			"image" : "https://static.divine-pride.net/images/items/item/12405.png",
 			"amount" : 10,
-			"day" : "10/11",
+			"day" : "10/12",
 			"all_days" : false,
 			"confirmed" : false
 		},
 		"11" : {
-			"image" : "images/EluniumEnriquecido.png",
+			"image" : "images/Manual.png",
 			"amount" : 5,
-			"day" : "11/11",
+			"day" : "11/12",
 			"all_days" : false,
 			"confirmed" : false
 		},
 		"12" : {
-			"image" : "images/OrideconEnriquecido.png",
-			"amount" : 5,
-			"day" : "12/11",
+			"image" : "images/ValePresente.png",
+			"amount" : 10,
+			"day" : "12/12",
 			"all_days" : false,
 			"confirmed" : false
 		},
 		"13" : {
-			"image" : "images/Medicina.png",
-			"amount" : 3,
-			"day" : "13/11",
+			"image" : "images/LatadeComidaparaGatos.png",
+			"amount" : 5,
+			"day" : "13/12",
 			"all_days" : false,
 			"confirmed" : false
 		},
 		"14" : {
-			"image" : "https://i.imgur.com/q21KUT4.png",
+			"image" : "images/OrideconEnriquecido.png",
 			"amount" : 5,
-			"day" : "14/11",
+			"day" : "14/12",
 			"all_days" : false,
 			"confirmed" : false
 		},
 		"15" : {
-			"image" : "images/Manual.png",
+			"image" : "https://static.divine-pride.net/images/items/item/23202.png",
 			"amount" : 10,
-			"day" : "15/11",
+			"day" : "15/12",
 			"all_days" : false,
 			"confirmed" : false
 		},
 		"16" : {
-			"image" : "images/Medicina.png",
-			"amount" : 5,
-			"day" : "16/11",
+			"image" : "https://static.divine-pride.net/images/items/item/12405.png",
+			"amount" : 10,
+			"day" : "16/12",
 			"all_days" : false,
 			"confirmed" : false
 		},
 		"17" : {
-			"image" : "images/ValePresente.png",
-			"amount" : 10,
-			"day" : "17/11",
+			"image" : "images/PoçãodeVida.png",
+			"amount" : 5,
+			"day" : "17/12",
 			"all_days" : false,
 			"confirmed" : false
 		},
 		"18" : {
-			"image" : "images/Chiclete.png",
+			"image" : "images/Manual.png",
 			"amount" : 5,
-			"day" : "18/11",
+			"day" : "18/12",
 			"all_days" : false,
 			"confirmed" : false
 		},
 		"19" : {
-			"image" : "images/LatadeComidaparaGatos.png",
-			"amount" : 5,
-			"day" : "19/11",
+			"image" : "images/ValePresente.png",
+			"amount" : 10,
+			"day" : "19/12",
 			"all_days" : false,
 			"confirmed" : false
 		},
 		"20" : {
-			"image" : "images/Medicina.png",
-			"amount" : 3,
-			"day" : "20/11",
+			"image" : "images/LatadeComidaparaGatos.png",
+			"amount" : 5,
+			"day" : "20/12",
 			"all_days" : false,
 			"confirmed" : false
 		},
 		"21" : {
-			"image" : "https://i.imgur.com/q21KUT4.png",
+			"image" : "images/EluniumEnriquecido.png",
 			"amount" : 5,
-			"day" : "21/11",
+			"day" : "21/12",
 			"all_days" : false,
 			"confirmed" : false
 		},
 		"22" : {
-			"image" : "images/CartaoKafra.png",
+			"image" : "https://static.divine-pride.net/images/items/item/23202.png",
 			"amount" : 10,
-			"day" : "22/11",
+			"day" : "22/12",
 			"all_days" : false,
 			"confirmed" : false
 		},
 		"23" : {
-			"image" : "images/Medicina.png",
-			"amount" : 5,
-			"day" : "23/11",
+			"image" : "https://www.divine-pride.net/img/items/item/bRO/12217.png",
+			"amount" : 10,
+			"day" : "23/12",
 			"all_days" : false,
 			"confirmed" : false
 		},
 		"24" : {
-			"image" : "images/PoçãodeVida.png",
-			"amount" : 10,
-			"day" : "24/11",
+			"image" : "images/Medicina.png",
+			"amount" : 25,
+			"day" : "24/12",
 			"all_days" : false,
 			"confirmed" : false
 		},
 		"25" : {
-			"image" : "images/Manual.png",
-			"amount" : 10,
-			"day" : "25/11",
+			"image" : "https://static.divine-pride.net/images/items/item/14545.png",
+			"amount" : 25,
+			"day" : "25/12",
 			"all_days" : false,
 			"confirmed" : false
 		},
 		"26" : {
 			"image" : "images/ValePresente.png",
 			"amount" : 10,
-			"day" : "26/11",
+			"day" : "26/12",
 			"all_days" : false,
 			"confirmed" : false
 		},
 		"27" : {
-			"image" : "images/Medicina.png",
-			"amount" : 3,
-			"day" : "27/11",
+			"image" : "images/LatadeComidaparaGatos.png",
+			"amount" : 5,
+			"day" : "27/12",
 			"all_days" : false,
 			"confirmed" : false
 		},
 		"28" : {
-			"image" : "https://i.imgur.com/q21KUT4.png",
+			"image" : "images/OrideconEnriquecido.png",
 			"amount" : 5,
-			"day" : "28/11",
+			"day" : "28/12",
 			"all_days" : false,
 			"confirmed" : false
 		},
 		"29" : {
-			"image" : "images/Chiclete.png",
-			"amount" : 5,
-			"day" : "29/11",
+			"image" : "https://static.divine-pride.net/images/items/item/12755.png",
+			"amount" : 30,
+			"day" : "29/12",
 			"all_days" : false,
 			"confirmed" : false
 		},
 		"30" : {
-			"image" : "images/Medicina.png",
-			"amount" : 5,
-			"day" : "30/11",
+			"image" : "https://static.divine-pride.net/images/items/item/12755.png",
+			"amount" : 30,
+			"day" : "30/12",
 			"all_days" : false,
 			"confirmed" : false
 		},
 		"31" : {
-			"image" : "https://static.divine-pride.net/images/items/item/20541.png",
-			"amount" : 1,
-			"day" : "",
-			"all_days" : true,
+			"image" : "https://static.divine-pride.net/images/items/item/12755.png",
+			"amount" : 30,
+			"day" : "31/12",
+			"all_days" : false,
 			"confirmed" : false
 		},
 		"32" : {
-			"image" : "https://static.divine-pride.net/images/items/item/25791.png",
+			"image" : "https://static.divine-pride.net/images/items/item/20588.png",
 			"amount" : 1,
 			"day" : "",
 			"all_days" : true,
 			"confirmed" : false
 		}
 	},
-	"preview" : "https://i.imgur.com/lqD0TY7.gif",
+	"preview" : "https://i.imgur.com/X3M260X.gif",
 	"msg" : "Resgate dos prêmios: a partir das 16h00 do dia seguinte conversando com o NPC Torsen em Alberta.",
-	"v" : 5
+	"v" : 6,
+	"files" : "images/CartaoKafra.png  images/Chiclete.png  images/CupomDeTroca.png  images/Cx.png  images/CxdeAcesso.png  images/EluniumEnriquecido.png  images/LatadeComidaparaGatos.png  images/Manual.png  images/Medicina.png  images/OrideconEnriquecido.png  images/PeixeEnlatado.png  images/PoçãodeVida.png  images/ValePresente.png"
 }
