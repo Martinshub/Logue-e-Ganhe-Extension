@@ -211,8 +211,8 @@
 			"confirmed" : false
 		}
 	},
-	"preview" : "https://i.imgur.com/X3M260X.gif",
+	"preview" : "https://i.imgur.com/ZyO7UNL.png",
 	"msg" : "Resgate dos prêmios: a partir das 16h00 do dia seguinte conversando com o NPC Torsen em Alberta.",
-	"v" : 6.2,
+	"v" : 6.3,
 	"files" : "images/CartaoKafra.png  images/Chiclete.png  images/CupomDeTroca.png  images/Cx.png  images/CxdeAcesso.png  images/EluniumEnriquecido.png  images/LatadeComidaparaGatos.png  images/Manual.png  images/Medicina.png  images/OrideconEnriquecido.png  images/PeixeEnlatado.png  images/PoçãodeVida.png  images/ValePresente.png"
 }
